@@ -9,4 +9,11 @@ file = 'model.pkl'
 with open(file, 'rb): 
   data = pickle.load(file)
 ```
+## Versão das tecnologias utilizadas 
 
+Python: 3.11.11 
+Pandas: 2.2.2 
+NumPy: 1.26.4 
+Matplotlib: 3.10.0 
+Seaborn: 0.13.2 
+Scikit-learn ou sklearn: 1.6.1
